@@ -1,4 +1,4 @@
-# 🧠 Self-Driving Car — Deep Learning Perception System v3.0
+# 🧠 Self-Driving Car — Deep Learning Perception System 
 
 A production-grade, modular deep learning perception pipeline for autonomous vehicles.
 
