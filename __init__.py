@@ -1,1 +1,1 @@
-# architectures package
+# inference package
